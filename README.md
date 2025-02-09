@@ -1,0 +1,1 @@
+This example demonstrates a potential issue in Ada's exception handling. The code attempts to gracefully handle a division by zero; however, there are instances where the exception might not be caught as intended, leading to program termination or unexpected results.  The solution focuses on improving exception handling using robust techniques to avoid common pitfalls.
